@@ -1,4 +1,3 @@
-[Cascade_Audit_Case_README.md](https://github.com/user-attachments/files/33360224/Cascade_Audit_Case_README.md)
 # Cascade Warehouse Club | FY2026 Audit Risk Assessment
 
 **2026 Beta Alpha Psi Accounting & Finance Case Competition**  
