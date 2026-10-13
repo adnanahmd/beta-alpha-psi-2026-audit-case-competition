@@ -63,5 +63,3 @@ Financial analysis · Risk assessment · Data interpretation · Audit planning �
 ## Disclaimer
 
 Cascade Warehouse Club, Summit Foods, and all case figures are fictional and were provided for an educational competition. Neither our presentation nor this repository represents an actual audit or proves that a company misstated its financial statements. The original competition case packet is not included.
-
-*Before making the repository public, I will confirm that my teammates and the competition organizers are comfortable with the materials being shared.*
